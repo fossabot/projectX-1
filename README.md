@@ -1,7 +1,7 @@
 # projectX
 
 ### Motivation
-  "You know what my favorite ring is? The next one." - Tom Brady
+  _**"You know what my favorite ring is? The next one."**_ - Tom Brady
 
 ### Tutorials to read for Rizwan
   
