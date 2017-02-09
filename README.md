@@ -7,3 +7,7 @@
   
   1. Git: https://try.github.io/levels/1/challenges/1
   2. Go: https://gobyexample.com/
+
+## Project 1
+
+Play songs from youtube and/or soundcloud
