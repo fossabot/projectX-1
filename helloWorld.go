@@ -22,4 +22,6 @@ func main() {
 	for j := input - 1; j >= 0; j-- {
 		fmt.Println(s[j])
 	}
+	
+	fmt.Println("chal gaya")
 }
